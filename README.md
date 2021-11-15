@@ -6,6 +6,6 @@
     "redux-thunk": "^2.4.0"
     "styled-components": "^5.3.3"
     
-   A preview for this project is avaliable on https://franciscosalome.github.io/vev-test/
+   A preview for this project is available on https://franciscosalome.github.io/vev-test/
    
  
